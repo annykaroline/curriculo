@@ -1,0 +1,18 @@
+﻿body{background:#142F40}
+
+h1{font-family:Bahnschrift;text-align:center;}
+img{width:200px; margin-left:550px; border-radius: 100px}
+fieldset{border:1px solid white; background:#FFD9D8; border-radius: 50px}
+h3{color:#224E6A; font-family:Franklin Gothic Demi; text-align:center;font-size:20px;}
+
+
+.titulo{background-color:#142F40; color:#FAF5F2; font-family:Bahnschrift ; padding-top: 30px; padding-bottom:30px;font-size:80px; text-align:center; border-radius: 50px}
+.sub{font-size:35px; text-align:center; color:#142F40;font-family:Franklin Gothic Demi;}
+
+#texto{text-align:center; color:#262626;font-family:Franklin Gothic Demi;}
+#format{margin: 0px auto; text-align: justify; width: 60%; height: auto;}
+
+margin: 0px auto;
+
+margin-left:50px;
+
